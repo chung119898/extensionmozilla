@@ -1,0 +1,25 @@
+{
+
+  "description": "giao diện với 5 chú chó dễ thương",
+  "manifest_version": 2,
+  "name": "5chucho",
+  "version": "1.0",
+  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/themes/weta_tiled",
+
+  "theme": {
+    "images": {
+      "additional_backgrounds": "1.png"
+    },
+
+    "properties": {
+      "additional_backgrounds_alignment": [ "top" ],
+      "additional_backgrounds_tiling": [ "repeat"  ]
+   },
+    
+    "colors": {
+       "frame": "#adb09f",
+       "frame_inactive": "#000",
+       "tab_text": "#000"
+    }
+  }
+}
