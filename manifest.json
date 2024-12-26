@@ -8,7 +8,7 @@
 
   "theme": {
     "images": {
-      "additional_backgrounds": "1.png"
+      "additional_backgrounds": ["1.png"]
     },
 
     "properties": {
