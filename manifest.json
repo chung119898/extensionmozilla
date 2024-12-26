@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "name": "5chucho",
   "version": "1.0",
-  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/themes/weta_tiled",
+  "homepage_url": "https://github.com/chung119898/extensionmozilla",
 
   "theme": {
     "images": {
